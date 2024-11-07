@@ -9,7 +9,6 @@ I'm a software engineer with a strong interest in **MLOps** practices and **AI t
 ## 🌐 Connect with Me
 Feel free to reach out or connect with me on social platforms:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/zainab.souissi.5)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeineb-souissi-ab3166260/)
 
 ---
